@@ -7,7 +7,7 @@ response = client.add_lf_tags_to_resource(
     Resource={
         'TableWithColumns': {
             'DatabaseName': 'Default',
-            'Name': 'sparkk',
+            'Name': 'theee',
             'ColumnNames': [
                 'name'
             ]
